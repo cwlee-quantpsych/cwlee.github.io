@@ -319,26 +319,23 @@ My present line of research has been naturally shaped by prior investigations, m
 ### Peer-Reviewed Articles
 
 #### Published
+- **Lee, C.\*** & Gates, K. M. (2026). Group iterative multiple model estimation approaches in clinical science. *Annual Review of Clinical Psychology, 22:23-48*, [DOI](https://doi.org/10.1146/annurev-clinpsy-061724-080138)
 - **Lee, C.\*** & Gates, K. M. (2025). Automated machine learning for classification and regression: A tutorial for psychologists. *Behavior Research Methods, 57*, 262. [DOI](https://doi.org/10.3758/s13428-025-02684-5)  
 - **Lee, C.\***, Luo, L., Kuhlmann, S. L., Plumley, R. D., Panter, A. T., Bernacki, M. L., Greene, J. A., & Gates, K. M. (2025). Interpretable predictive analytics for online learning: A Markov-based machine learning approach. *Journal of Learning Analytics, 12*(2), 259–278. [DOI](https://doi.org/10.18608/jla.2025.8375)  
 - **Lee, C.\***, Gates, K. M., Chun, J., Al Kontar, R., Kamali, M., McInnis, M. G., & Deldin, P. (2025). Suicide risk estimation in bipolar disorder using N200 and P300 event-related potentials and machine learning: A pilot study. *Journal of Affective Disorders Reports, 20*, 100875. [DOI](https://doi.org/10.1016/j.jadr.2025.100875)  
 - Plumley, R. D., Bernacki, M. L., Greene, J. A., …, **Lee, C.**, Panter, A. T., & Gates, K. M. (2024). Co‐designing enduring learning analytics prediction and support tools in undergraduate biology courses. *British Journal of Educational Technology, 55*(5), 1860–1883. [DOI](https://doi.org/10.1111/bjet.13472)  
 
 #### Accepted
-- **Lee, C.\*** & Gates, K. M. (Expected May 7, 2026). Group-iterative multiple model estimation in clinical science. *Annual Review of Clinical Psychology.*
-
-#### Under Review
-- Rodebaugh, T. L., **Lee, C.**, Gates, K. M., Frumkin, M. R., …, & Piccirillo, J. Modeling psychological processes in tinnitus disorder. *Clinical Psychological Science.*  
 - Yoon, J. H.\*, **Lee, C.\***, Kwon, S., & Bae, Y. C. Nonlinear and chaotic dynamics in generalized fuzzy opinion model. *International Journal of Fuzzy Systems.*  
 
+#### Under Review/Revisions
+- Rodebaugh, T. L., **Lee, C.**, Gates, K. M., Frumkin, M. R., …, & Piccirillo, J. Modeling psychological processes in tinnitus disorder. *Methodological Innovations.*  
+
 #### Submission Pending
-- **Lee, C.\*** No single approach fits all: Testing two generations of structural equation modeling estimation.  
+- **Lee, C.\*** Early stopping for structural equation modeling.
+- - **Lee, C.\*** Adaptive structural equation modeling for idiographic dynamic processes via meta-learning.  
 - **Lee, C.\*** Modeling imprecision in psychological data: Least squares estimation with fuzzy numbers.  
 - **Lee, C.\*** FLEX: An R package for fuzzy numbers and fuzzy linear regression. 
-
-#### In Preparation
-- **Lee, C.\*** Generalizing across studies and persons: Meta-learning in psychology (PhD dissertation).  
-- **Lee, C.\*** Meta-learning for robust structural equation modeling (PhD dissertation).  
 
 <br>
 ### Theses
@@ -377,7 +374,7 @@ Currently engaged in projects applying fuzzy statistics and chaos theory to mode
 ## Education {#education}
 ---
 <br>
-**Ph.D. in Quantitative Psychology**  University of North Carolina, Chapel Hill, NC, USA (May 2026)  
+**Ph.D. in Quantitative Psychology**  University of North Carolina, Chapel Hill, NC, USA
 **M.S. in Applied Statistics**  University of Michigan, Ann Arbor, MI, USA  
 **M.A. in Economics**  Yonsei University, Seoul, South Korea  
 **B.S. in Biology**  Yonsei University, Seoul, South Korea
@@ -390,7 +387,7 @@ Currently engaged in projects applying fuzzy statistics and chaos theory to mode
 **University of North Carolina at Chapel Hill**<br>
 ***PSYC 210: Statistical Principles of Psychological Research***
 - **Instructional Assistant**
-    May 2025 – Present; May 2022 – May 2024<br>
+    May 2025 – May 2026; May 2022 – May 2024<br>
 - **Teaching Assistant**
     Aug 2020 – Apr 2021<br>
     Awarded Departmental Undergraduate Teaching Commendation (both semesters)
